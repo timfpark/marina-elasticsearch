@@ -1,0 +1,7 @@
+{
+    "name": "elasticsearch",
+    "type": "helm",
+    "repo": "https://github.com/helm/charts",
+    "path": "stable/elasticsearch",
+    "subcomponents": []
+}
